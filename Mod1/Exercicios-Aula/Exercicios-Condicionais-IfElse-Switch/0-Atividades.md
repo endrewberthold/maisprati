@@ -1,8 +1,8 @@
 **Exercicio1:**<br>
-verificar se um numero é positivo, negativo ou 0
+verificar se um numero é positivo, negativo ou 0 **OK**
 
 **Exercicio2:**<br>
-verificar se o ano é bisexto
+verificar se o ano é bissexto **OK**
 
 **Exercicio3:**<br>
 definir faixas etárias para crianças, adultos e idosos e com switch case a presentar
