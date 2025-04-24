@@ -19,7 +19,7 @@ if(typeof nome === 'string' && idade > 0 && idade < 111) {
     console.log("Valores inválidos");
 }
 switch (faixa) {
-    case 1:
+    case (faixa >= 12):
         console.log(`${nome} tem ${idade} anos e está na faixa: infantil.`);
         break
     case 2:
