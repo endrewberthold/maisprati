@@ -87,3 +87,5 @@ Isso garante que os scripts rodem no terminal.
 - Se surgir o erro Cannot find module 'prompt-sync', verifique se o node_modules/ foi gerado na raiz do projeto (maisPraTI/).
 
 - Todos os arquivos podem ser executados de forma independente.
+
+---
