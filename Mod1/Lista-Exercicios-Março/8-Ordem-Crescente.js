@@ -11,11 +11,10 @@ while (num1 === num2) {
     console.log('Digite valores diferentes')
     num1 = Number(prompt('1º Numero: '))
     num2 = Number(prompt('2º Numero: '))
-    num1 = Number(num1)
-    num2 = Number(num2)
 }
 if (num1 > num2) {
-    console.log(num1, num2)
-} else {
     console.log(num2, num1)
+} else {
+    console.log(num1, num2)
 }
+

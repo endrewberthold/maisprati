@@ -5,7 +5,6 @@ let num = Number(prompt('Digite 1 para exibir | Digite 2 para cancelar: '))
 
 while (num === '' || isNaN(num) || (num != 1 && num != 2)) {
     num = Number(prompt('Opção inválida, Digite 1 para exibir | Digite 2 para cancelar: '))
-    num = Number(num)
 }
 
 let opcao = ''

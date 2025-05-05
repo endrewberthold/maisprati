@@ -5,7 +5,6 @@ let idade = Number(prompt('Digite sua idade: '))
 
 while (idade < 0){
     idade = Number(prompt('Idade não pode ser menor que zero: '))
-    idade = Number(idade)
 }
 
 let classificacao = ''
