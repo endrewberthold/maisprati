@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1aa9238-51f6-406c-90cc-238a3a33e195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mod1/Aula/Arrays.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Mod1/Aula/Lista-Exercicios-Março/7-Triangulo.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2w8kovNpeUWmg7QUFcbU6qj3g0Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.10-Imprimir-10x.js.executor": "Run",
+    "Node.js.12-Tabuada.js.executor": "Run",
+    "Node.js.13-Media-aritmetica-Decimal.js.executor": "Run",
+    "Node.js.14-Calcular-Fatorial.js.executor": "Run",
+    "Node.js.15-Fibonacci.js.executor": "Run",
+    "Node.js.2-Classificação-Idade.js.executor": "Run",
+    "Node.js.4-Opções-Usuário.js.executor": "Run",
+    "Node.js.5-IMC.js.executor": "Run",
+    "Node.js.6-Triangulo.js.executor": "Run",
+    "Node.js.7-Itens-Comprados.js.executor": "Run",
+    "Node.js.7-Triangulo.js.executor": "Run",
+    "Node.js.8-Ordem-Crescente.js.executor": "Run",
+    "Node.js.8-Ordem-Decrescente.js.executor": "Run",
+    "Node.js.9-Contagem-Regressiva.js.executor": "Run",
+    "Node.js.Ano-bissexto.js.executor": "Run",
+    "Node.js.Aprovado-Reprovado.js.executor": "Run",
+    "Node.js.Arrays.js.executor": "Run",
+    "Node.js.Classificação-Idade.js.executor": "Run",
+    "Node.js.Faixa-Etaria.js.executor": "Run",
+    "Node.js.Function.js.executor": "Run",
+    "Node.js.Media-Aritmetica-While.js.executor": "Run",
+    "Node.js.Opções-Usuário.js.executor": "Run",
+    "Node.js.Par-Impar.js.executor": "Run",
+    "Node.js.Percentual-Aprovados-Reprovados.js.executor": "Run",
+    "Node.js.Positivo-Negativo.js.executor": "Run",
+    "Node.js.Somar-Entradas.js.executor": "Run",
+    "Node.js.Tabuada-For.js.executor": "Run",
+    "Node.js.debug.js.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "C:/maisprati",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/endrew.alvez/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.15.0/node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\maisprati\Mod1\Aula" />
+      <recent name="C:\maisprati\Mod1" />
+      <recent name="C:\maisprati\Mod1\Aula\Calculadora" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Positivo-Negativo.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Mod1/Aula/IfElse-Switch/Positivo-Negativo.js" working-dir="$PROJECT_DIR$/Mod1/Aula/IfElse-Switch">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1aa9238-51f6-406c-90cc-238a3a33e195" name="Changes" comment="" />
+      <created>1745430766366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745430766366</updated>
+      <workItem from="1745430767695" duration="732000" />
+      <workItem from="1745432010814" duration="5406000" />
+      <workItem from="1745500318801" duration="116000" />
+      <workItem from="1745500766703" duration="698000" />
+      <workItem from="1745946922639" duration="3808000" />
+      <workItem from="1746055213697" duration="25279000" />
+      <workItem from="1746289315273" duration="10023000" />
+      <workItem from="1746361769201" duration="4777000" />
+      <workItem from="1746469527745" duration="1927000" />
+      <workItem from="1746489739086" duration="5058000" />
+      <workItem from="1746576801722" duration="4577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Mod1/Lista-Exercicios-Março/13-Media-aritmetica-Decimal.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
