@@ -57,3 +57,5 @@ if(media >= 6){
     console.log(`Média dos alunos abaixo do padrão: ${media}`)
 }
 //somar a media de alunos e dividir pelo numero de alunos
+
+// oque ele tem, o que ele faz e como ele esta

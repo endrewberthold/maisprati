@@ -1,8 +1,8 @@
 const prompt = require('prompt-sync')()
 console.log(`--- Programa Contagem Regressiva ---`)
 let num = Number(prompt('Digite um numero para contagem regressiva: '))
-console.log(`Tecla Enter para contagem.`)
 let contador = 0
+console.log(`Tecla Enter para contagem.`)
 
 while(contador < num){
     let contagem = Number(prompt(`${num - contador}`))
