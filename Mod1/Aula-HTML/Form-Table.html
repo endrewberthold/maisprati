@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        #formulario {
+            width: 300px;
+            margin: 100px auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div id="formulario">
+    <img src="1039792_med__20230904214248_joao_pedro_galvao.png" width="150">
+    <p>O melhor que ja passou por aqui!</p><br>
+    <p>Vamo Gremio</p>
+    <input type="text" id="login" placeholder="Login">
+    <p>A senha dos guri</p>
+    <input type="password" id="senha" placeholder="Senha">
+    <input type="submit" value="Enviar" id="enviar">
+</div>
+
+<script>
+    document.getElementById('enviar').addEventListener('click', function () {
+        const login = document.getElementById('login');
+        const senha = document.getElementById('senha');
+        
+        login.value = '';
+        senha.value = '';
+    });
+</script>
+
+</body>
+</html>
