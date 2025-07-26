@@ -3,12 +3,129 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Document</title>
+    <title>Formulário</title>
+    <style>
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        header {
+            padding: 0.5rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background-color: lightgray;
+        }
+        header h2, p {
+            margin: 0.5rem;
+        }
+        .container {
+            justify-content: center;
+            text-align: center;
+            border-radius: 2rem;
+            background-color: gray;
+            padding: 1rem;
+            margin: 1rem auto;
+            max-width: 500px;
+            min-width: 200px;
+            align-items: center;
+            font-weight: bold;
+        }
+        .container legend {
+            font-size: 1.5rem;
+            background-color: lightgray;
+            padding: 0.5rem;
+            width: 100%;
+            border-radius: 1rem;
+            box-sizing: border-box;
+            margin: 2px auto;
+        }
+        .container fieldset {
+            border: none;
+        }
+        .container .area-texto {
+            width: 100%;
+            border-radius: 0.5rem;
+            border: none;
+            align-items: flex-start;
+            resize: none;
+        }
+        input {
+            width: 100%;
+            border: none;
+            border-radius: 0.5rem;
+            height: 2rem;
+            box-sizing: border-box;
+        }
+        .name, .email, .endereco, .tipo, .area-texto {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: flex-start;
+            margin: 10px 0;
+        }
+        .btn_submit {
+            padding: 0.5em;
+            border-radius: 0.5rem;
+            border: gray solid 1px;
+            box-shadow: 1px 1px 0 0 rgba(0, 0, 0, 1);
+            font-size: 1.2rem;
+        }
+        .btn_submit:hover {
+            background-color: aliceblue;
+            color: green;
+        }
+        .tipo {
+            height: 2rem;
+            width: 10rem;
+            font-size: 1rem;
+            justify-content: center;
+            align-items: center;
+            border: gray solid 1px;
+            border-radius: 0.5rem;
+        }
+
+    </style>
 </head>
 <body>
 <header>
-
+    <h2>Formulário de Feedback</h2>
+    <p>
+        Preencha seus dados abaixo.
+    </p>
 </header>
+<div class="container">
+    <form>
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <label for="name">Nome:</label>
+            <input type="text" name="name" class="name" placeholder="Digite seu nome" required>
+
+            <label for="email">E-mail:</label>
+            <input type="email" name="email" class="email" placeholder="Digite seu e-mail" required>
+
+            <label>Endereço completo:</label>
+            <input type="text" name="text" class="endereco">
+
+            <label>Tipo de Feedback:</label>
+            <select class="tipo" name="tipo">
+                <option value="disabled select">Selecione:</option>
+                <option>Opção 1</option>
+                <option>Opção 2</option>
+                <option>Opção 3</option>
+            </select>
+
+            <label>Campo para o Feedback:</label>
+            <textarea class="area-texto" rows="10" cols="70" placeholder="Digite o texto"></textarea>
+
+            <button class="btn_submit" type="submit">Enviar Formulário</button>
+        </fieldset>
+    </form>
+</div>
 
 </body>
 </html>
