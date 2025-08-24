@@ -5,7 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1aa9238-51f6-406c-90cc-238a3a33e195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mod1/Aula/Arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/maisprati.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/CodigosUteis/LocalStorageAddRemoveFav.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/CodigosUteis/TesteChamadaUseEffect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/MovieModal.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/omdb/getOmdbData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/.idea/portfolio-endrew-berthold (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/.idea/endrew-berthold.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/WhatsApp Image 2025-07-21 at 12.10.16.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/WhatsApp Image 2025-07-21 at 12.10.16.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/styles/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="JSX File" />
       </list>
     </option>
   </component>
@@ -29,7 +52,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2w8kovNpeUWmg7QUFcbU6qj3g0Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,20 +90,27 @@
     "Node.js.Tabuada-For.js.executor": "Run",
     "Node.js.debug.js.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
-    "last_opened_file_path": "C:/maisprati",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/endrew/maisprati/Mod3/Atividade-5/api-imdb/src/pages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/endrew.alvez/AppData/Roaming/JetBrains/WebStorm2024.3/node/versions/22.15.0/node",
+    "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/snap/webstorm/501/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/pages" />
+      <recent name="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components" />
       <recent name="C:\maisprati\Mod1\Aula" />
       <recent name="C:\maisprati\Mod1" />
       <recent name="C:\maisprati\Mod1\Aula\Calculadora" />
@@ -92,7 +124,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
       </set>
     </attachedChunks>
   </component>
@@ -115,6 +147,8 @@
       <workItem from="1746469527745" duration="1927000" />
       <workItem from="1746489739086" duration="5058000" />
       <workItem from="1746576801722" duration="4577000" />
+      <workItem from="1755643868347" duration="39473000" />
+      <workItem from="1755950384840" duration="44631000" />
     </task>
     <servers />
   </component>
