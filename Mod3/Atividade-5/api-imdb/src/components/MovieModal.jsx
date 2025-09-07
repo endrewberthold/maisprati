@@ -60,39 +60,44 @@ const MovieModal = ({
                     </div>
                 ) : (
                     <>
-                        <h2 id='modalTitle'>
-                            {movieInfo.Title} <span className='movieYear'>({movieInfo.Year})</span>
-                        </h2>
-
-                        <div className='modalBody'>
-                            <div className='modalPoster'>
+                        <div className="contentRow">
+                            <div className="modalPoster">
                                 {movieInfo.Poster && movieInfo.Poster !== "N/A" ? (
                                     <img src={movieInfo.Poster} alt={`${movieInfo.Title} Poster`} />
                                 ) : (
-                                    <div className='placeholder'>Sem poster</div>
+                                    <div className="placeholder">Sem poster</div>
                                 )}
                             </div>
 
-                            <div className='modalInfo'>
-                                <div className='modalActions'>
-                                    <button
-                                        onClick={onToggleFavorite}
-                                        className={`favoriteBtn ${isFavorite ? 'favorite-activate' :  ''}`}
-                                        aria-pressed={isFavorite}
-                                        disabled={loadingDetails}
+                            <div className="modalInfo">
+                                <div className="modalHeader">
+                                    <h2 id="movieModalTitle">
+                                        {movieInfo.Title} <span className="movieYear">({movieInfo.Year})</span>
+                                    </h2>
+
+                                    <div className="modalActions">
+                                        <button
+                                            onClick={onToggleFavorite}
+                                            className={`favoriteBtn ${isFavorite ? "favorite-activate" : ""}`}
+                                            aria-pressed={isFavorite}
+                                            disabled={loadingDetails}
                                         >
-                                        {isFavorite ? 'Remover favorito' : 'Adicionar aos favoritos'}
-                                    </button>
+                                            {isFavorite ? "Remover favorito" : "Adicionar aos favoritos"}
+                                        </button>
+                                    </div>
                                 </div>
 
-                <p><b>Plot:</b> {movieInfo.Plot}</p>
-                <p><b>Actors:</b> {movieInfo.Actors}</p>
-                <p><b>Genre:</b> {movieInfo.Genre}</p>
-                <p><b>Director:</b> {movieInfo.Director}</p>
-                <p><b>Released:</b> {movieInfo.Released}</p>
+                                <div className="modalText">
+                                    <p><b>Plot:</b> {movieInfo.Plot}</p>
+                                    <p><b>Actors:</b> {movieInfo.Actors}</p>
+                                    <p><b>Genre:</b> {movieInfo.Genre}</p>
+                                    <p><b>Director:</b> {movieInfo.Director}</p>
+                                    <p><b>Released:</b> {movieInfo.Released}</p>
+                                </div>
+                            </div>
                         </div>
-                  </div>
-                </>
+                    </>
+
                 )}
             </div>
         </div>

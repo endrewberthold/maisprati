@@ -186,11 +186,11 @@ const Search = () => {
                                     <div className='placeholder'>Sem Poster</div>
                                 )}
                                 <p>{f.Title}<span>{f.Year}</span></p>
-                                <div>
+                                <div className='favActions'>
                                     <button onClick={() => fetchDetails(f.imdbID)}>
                                         Detalhes
                                     </button>
-                                    <button onClick={() => removeFavorite(f.imdbID)} className='favoriteBtn'>
+                                    <button onClick={() => removeFavorite(f.imdbID)} className='removeBtn'>
                                         Remover
                                     </button>
                                 </div>
@@ -208,25 +208,37 @@ const Search = () => {
 
             {/* Listagem de filmes */}
             {movies.length > 0 && (
-                <div className="movies">
-                    {movies.map((movie) => (
-                        <div key={movie.imdbID} className="movieCard">
-                            {movie.Poster && movie.Poster !== "N/A" ? (
-                                <img src={movie.Poster} alt={movie.Title} />
-                            ) : (
-                                <div className="placeholder">Sem poster</div>
-                            )}
-                            <p>{movie.Title}</p> <p className='movieYear'>({movie.Year})</p>
-                            <button onClick={() => fetchDetails(movie.imdbID)}>
-                                Detalhes
-                            </button>
-                            <button onClick={() => toggleFavorite(movie)}>
-                                {isFavorite(movie.imdbID) ? 'Favorito' : 'Favoritar'}
-                            </button>
-                        </div>
-                    ))}
-                </div>
-            )}
+                    <div className="movies">
+                        {movies.map((movie) => (
+                            <div key={movie.imdbID} className="movieCard">
+                                <div className="cardMedia">
+                                    {movie.Poster && movie.Poster !== "N/A" ? (
+                                        <img src={movie.Poster} alt={movie.Title} />
+                                    ) : (
+                                        <div className="placeholder">Sem poster</div>
+                                    )}
+
+                                    <div className="mediaOverlay">
+                                        <div className="mediaTitle">
+                                            <span className="titleText">{movie.Title}</span>
+                                            <span className="movieYear">({movie.Year})</span>
+                                        </div>
+
+                                        <div className="mediaActions">
+                                            <button onClick={() => fetchDetails(movie.imdbID)}>Detalhes</button>
+                                            <button
+                                                className={`favoriteBtn ${isFavorite(movie.imdbID) ? "favorite-activate" : ""}`}
+                                                onClick={() => toggleFavorite(movie)}
+                                            >
+                                                {isFavorite(movie.imdbID) ? "★" : "☆"}
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                )}
 
             {/* Paginação */}
             {totalPages > 1 && (

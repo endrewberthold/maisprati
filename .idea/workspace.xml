@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1aa9238-51f6-406c-90cc-238a3a33e195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/maisprati.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/CodigosUteis/LocalStorageAddRemoveFav.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/CodigosUteis/TesteChamadaUseEffect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/MovieModal.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mod3/Atividade-5/omdb/getOmdbData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/.idea/portfolio-endrew-berthold (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/.idea/endrew-berthold.iml" afterDir="false" />
@@ -22,11 +15,8 @@
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/MovieModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/MovieModal.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/Search.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/main.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/styles/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +138,7 @@
       <workItem from="1746489739086" duration="5058000" />
       <workItem from="1746576801722" duration="4577000" />
       <workItem from="1755643868347" duration="39473000" />
-      <workItem from="1755950384840" duration="44631000" />
+      <workItem from="1755950384840" duration="62147000" />
     </task>
     <servers />
   </component>
