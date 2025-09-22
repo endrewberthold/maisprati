@@ -15,9 +15,6 @@
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/portfolio-endrew-berthold (1)/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Mod2/Atividade-4/Landing_page/endrew-berthold/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/MovieModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/MovieModal.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/components/Search.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Mod3/Atividade-5/api-imdb/src/styles/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +80,16 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/endrew/maisprati/Mod3/Atividade-5/api-imdb/src/pages",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/endrew/maisprati",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "/snap/webstorm/501/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -114,7 +114,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -139,6 +140,7 @@
       <workItem from="1746576801722" duration="4577000" />
       <workItem from="1755643868347" duration="39473000" />
       <workItem from="1755950384840" duration="62147000" />
+      <workItem from="1758506277473" duration="442000" />
     </task>
     <servers />
   </component>
